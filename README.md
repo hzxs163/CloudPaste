@@ -1356,4 +1356,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
   [![Contributors](https://contrib.rocks/image?repo=ling-drag0n/CloudPaste)](https://github.com/ling-drag0n/CloudPaste/graphs/contributors)
 
-**If you think the project is good I hope you can give a free star✨✨, Thank you very much!**
+**If you think the project is good I hope you can give a free star✨✨, Thank you very much!*******
