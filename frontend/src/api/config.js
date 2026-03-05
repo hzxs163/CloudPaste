@@ -8,7 +8,7 @@ import { useLocalStorage } from "@vueuse/core";
 import { createLogger } from "@/utils/logger.js";
 
 // 默认的开发环境API基础URL
-const DEFAULT_DEV_API_URL = "http://localhost:8787";
+const DEFAULT_DEV_API_URL = "https://api.wkke.de5.net";
 const log = createLogger("ApiConfig");
 
 // 检查是否在Docker环境中运行
